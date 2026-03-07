@@ -8,6 +8,11 @@
 
 ---
 
+## Sample Data
+<img width="1155" height="991" alt="image" src="https://github.com/user-attachments/assets/45b55de5-1f0c-4f9d-a536-06b4e4a899b3" />
+
+---
+
 ## 📌 Project Overview
 
 A Python-based data analytics dashboard that processes and visualizes a full year of solar energy production data. The dashboard transforms raw energy meter readings into meaningful KPIs and charts, providing a clear overview of solar plant performance.
