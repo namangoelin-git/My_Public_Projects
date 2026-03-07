@@ -1,5 +1,13 @@
 # 🌞 Solar Plant Annual Overview
 
+**© Developed by Naman Goel** | Data Analyst 
+
+## 📸 Dashboard Preview
+
+<img width="1244" height="1006" alt="image" src="https://github.com/user-attachments/assets/978405d0-4e78-4f86-920b-edd96e480419" />
+
+---
+
 ## 📌 Project Overview
 
 A Python-based data analytics dashboard that processes and visualizes a full year of solar energy production data. The dashboard transforms raw energy meter readings into meaningful KPIs and charts, providing a clear overview of solar plant performance.
@@ -59,29 +67,6 @@ To analyze annual solar energy production data and present it in a clean, profes
 
 ---
 
-## 📁 Project Structure
-
-```
-solar-dashboard/
-│
-├── data/
-│   └── solar_energy.csv       # Raw energy data
-│
-├── solar_dashboard.py         # Main dashboard script
-│
-└── output/
-    └── dashboard.png          # Exported dashboard image
-```
-
----
-
-## 📸 Dashboard Preview
-
-> *Annual Solar Energy Report — 2025*
-> Built with Python | Pandas | Matplotlib
-
----
-
 ## 🚀 Future Improvements
 
 - [ ] Add daily production chart
@@ -90,10 +75,5 @@ solar-dashboard/
 - [ ] Convert to interactive dashboard using Plotly or Power BI
 - [ ] Automate report generation for multiple years
 
----
 
-## 👤 Author
-
-**Naman Goel** | Data Analyst
-© 2025 Naman Goel | Solar Energy Dashboard
 
