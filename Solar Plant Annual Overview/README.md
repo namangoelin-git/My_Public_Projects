@@ -1,5 +1,7 @@
 # 🌞 Solar Plant Annual Overview
 
+*Note: I’ve shared only the dashboard layout and visualization approach; the core calculation logic is kept private.*
+
 **© Developed by Naman Goel** | Data Analyst 
 
 ## 📸 Dashboard Preview
