@@ -8,7 +8,7 @@ Reads a CSV with [Date, Energy] and answers questions like:
 # Load the data from CSV
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\NamanGoel\Desktop\Py code\Solar_DA\Test_Data.csv")
+df = pd.read_csv(r"your/path/to/data.csv")
 
 # Datetime parsing
 df["Date"] = pd.to_datetime(df["Date"])
